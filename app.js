@@ -32,8 +32,6 @@ return;
 }
 //limpiamos para que el usuario vuelva a colocar el dato
 function limpiarCaja(){
-    
-    //let valorCaja= 
     document.querySelector("#valorUsuario").value="";
     //se utiliza para limpiar o vaciar el valor que se encuentra en un campo de entrada (input) en el HTML.
     //valorCaja.value="";
